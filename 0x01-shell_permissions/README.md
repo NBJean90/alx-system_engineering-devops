@@ -1,1 +1,1 @@
-6-multiple_permissions
+10-mirror_permissions
